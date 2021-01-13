@@ -1,4 +1,4 @@
-This folder contains two projects from my Software Engineering class. 
+This repository contains two projects from my Software Engineering class. 
 1) System Requirement Specification of a Co-op support application which was assigned to help us get a better idea of the Agile Methodology.
 
 2) Hogwarts Hobo Game - a modified version of the famous Frogger game. Creating this game with a group of people helped me understand how employees undergo software engineering process in the workplace.
